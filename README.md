@@ -45,7 +45,7 @@ Can machine learning predict short-term stock price movement better than a simpl
 - Test on more stocks and use walk-forward validation
 
 ## How to run
-1. 1. Open the notebook file in this repository using Google Colab
+1. Open the notebook file in this repository using Google Colab
 2. Click Runtime, then Run all
 3. Results are saved as `results.csv` and `predictions.png`
 
