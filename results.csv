@@ -1,0 +1,5 @@
+Model,RMSE,MAE,Directional accuracy (%)
+Naive (yesterday's close),18.3,13.42,
+Linear Regression,18.58,13.75,44.2
+Random Forest,43.04,33.17,51.6
+LSTM,34.8,27.21,51.8
